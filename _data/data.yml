@@ -73,8 +73,8 @@ experiences:
           time: Januany 2026 - Present
           company: Flo Health Inc., Vilnius, Lithuania
           details: |
-            **Payments team** - owning Subscriptions and Payments Domains for various PSPs (Apple/Google/Stripe/Paypal)
-            Maintaining supporting services for Subscriptions, Payments and Premiums
+            **Payments team** - owning Subscriptions and Payments Domains for various PSPs (Apple/Google/Stripe/Paypal).
+            Maintaining supporting services for Subscriptions, Payments and Premiums.
 
             **Stack:** Python, Scala, Kafka
 
