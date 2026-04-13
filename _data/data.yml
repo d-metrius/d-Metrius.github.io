@@ -72,7 +72,7 @@ career-profile:
       Architected, developed and launched core "Wallet" functionality to be used by our apps/services.  
       Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.  
       Architected, developed and launched Debit Cards transaction processing system linked with Ledger.  
-      Architected, suggested and planned huge Core Domain re-thinking/refacotoring project.  
+      Architected, suggested and planned huge Core Domain re-thinking/refactoring project.  
 
 experiences:
     title: Experiences
@@ -94,7 +94,7 @@ experiences:
             **Core-Banking team** - architecture and development of various core banking systems and services.  
             Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.  
             Architected, developed and launched Debit Cards transaction processing system linked with Ledger.  
-            Architected, suggested and planned huge Core Domain re-thinking/refacotoring project.
+            Architected, suggested and planned huge Core Domain re-thinking/refactoring project.
 
             ---
         - role: Lead Back-End Engineer
