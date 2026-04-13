@@ -66,13 +66,13 @@ career-profile:
       estate companies in Switzerland - RealForce Solutions SA, into a modern stack
       application with advanced property search mechanisms and complete tests coverage.
 
-      Most recent experience:
-      Architecture and development of various core banking systems and services @ TransferGo fintech.
-      Architected, developed and launched both in-house and external Ledger systems.
-      Architected, developed and launched core "Wallet" functionality to be used by our apps/services.
-      Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.
-      Architected, developed and launched Debit Cards transaction processing system linked with Ledger.
-      Architected, suggested and planned huge Core Domain re-thinking/refacotoring project.
+      Most recent experience:  
+      Architecture and development of various core banking systems and services @ TransferGo fintech.  
+      Architected, developed and launched both in-house and external Ledger systems.  
+      Architected, developed and launched core "Wallet" functionality to be used by our apps/services.  
+      Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.  
+      Architected, developed and launched Debit Cards transaction processing system linked with Ledger.  
+      Architected, suggested and planned huge Core Domain re-thinking/refacotoring project.  
 
 experiences:
     title: Experiences
@@ -81,9 +81,9 @@ experiences:
           time: Januany 2026 - Present
           company: Flo Health Inc., Vilnius, Lithuania
           details: |
-            **Payments team** - owning Subscriptions and Payments Domains for various PSPs (Apple/Google/Stripe/Paypal).
+            **Payments team** - owning Subscriptions and Payments Domains for various PSPs (Apple/Google/Stripe/Paypal).  
             Maintaining supporting services for Subscriptions, Payments and Premiums.
-
+            
             **Stack:** Python, Scala, Kafka
 
             ---
@@ -91,9 +91,9 @@ experiences:
           time: May 2024 - Januany 2026
           company: TransferGo, Vilnius, Lithuania
           details: |
-            **Core-Banking team** - architecture and development of various core banking systems and services.
-            Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.
-            Architected, developed and launched Debit Cards transaction processing system linked with Ledger.
+            **Core-Banking team** - architecture and development of various core banking systems and services.  
+            Architected, developed and launched main "Wallet"-based money transfer flows integrating into existing Remittance system.  
+            Architected, developed and launched Debit Cards transaction processing system linked with Ledger.  
             Architected, suggested and planned huge Core Domain re-thinking/refacotoring project.
 
             ---
@@ -101,8 +101,8 @@ experiences:
           time: October 2022 - May 2024
           company: TransferGo, Vilnius, Lithuania
           details: |
-            **Core-Banking team** - architecture and development of various core banking systems and services.
-            Architected, developed and launched both in-house and external Ledger systems.
+            **Core-Banking team** - architecture and development of various core banking systems and services.  
+            Architected, developed and launched both in-house and external Ledger systems.  
             Architected, developed and launched core "Wallet" functionality to be used by our apps/services.
 
             ---
@@ -110,8 +110,8 @@ experiences:
           time: June 2022 - October 2022
           company: TransferGo, Vilnius, Lithuania
           details: |
-            **Core-Banking team** - development of core banking services with TDD and DDD in mind.
-            Developed core "Wallet" functionality to be used by our apps/services.
+            **Core-Banking team** - development of core banking services with TDD and DDD in mind.  
+            Developed core "Wallet" functionality to be used by our apps/services.  
             Taking part in split to microservices project.
 
             ---
@@ -119,8 +119,8 @@ experiences:
           time: March 2021 - April 2022
           company: TransferGo, London, UK
           details: |
-            **Core-Banking team** - development of core banking services with TDD and DDD in mind.
-            Developed core "Wallet" functionality to be used by our apps/services.
+            **Core-Banking team** - development of core banking services with TDD and DDD in mind.  
+            Developed core "Wallet" functionality to be used by our apps/services.  
             Taking part in split to microservices project.
 
             ---
