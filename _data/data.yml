@@ -69,8 +69,18 @@ career-profile:
 experiences:
     title: Experiences
     info:
+        - role: Backend Engineer (L5)
+          time: Januany 2026 - Present
+          company: Flo Health Inc., Vilnius, Lithuania
+          details: |
+            **Payments team** - owning Subscriptions and Payments Domains for various PSPs (Apple/Google/Stripe/Paypal)
+            Maintaining supporting services for Subscriptions, Payments and Premiums
+
+            **Stack:** Python, Scala, Kafka
+
+            ---
         - role: Staff Back-End Engineer
-          time: May 2024 - Present
+          time: May 2024 - Januany 2026
           company: TransferGo, Vilnius, Lithuania
           details: |
             **Core-Banking team** - development of core banking services with TDD and DDD in mind.
